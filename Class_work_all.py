@@ -136,6 +136,10 @@
 # pythonanywhere
 #_____________________________________________________________________________________________________
 
+# pip3.6 install --user pythonanywhere
+# pa_autoconfigure_django.py
+
+# https://www.codespeedy.com/host-your-web-application-on-pythonanywhere/
 
 #_____________________________________________________________________________________________________
 
